@@ -8,6 +8,6 @@ public class Car {
     }
 
     public void addHorsepower(int n) {
-        this.horsepower += 1;
+        this.horsepower += n;
     }
 }
